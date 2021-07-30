@@ -1,0 +1,13 @@
+chicken
+rice
+cucumber
+lemon
+bread
+tomato
+lettuce
+apple
+banana
+watermelon
+beef
+boiledshrimp
+salmon
